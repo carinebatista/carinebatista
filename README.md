@@ -22,6 +22,8 @@ Take a look at my portfolio, and follow me in social networks :beer:
   
    - [Behance](https://www.behance.net/carine_batista)
    
+   - [Instagram](https://www.instagram.com/carine.batatafrita)
+   
 
 
   *May the force be whit you, young Padwan!*
