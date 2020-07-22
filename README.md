@@ -1,4 +1,4 @@
-## Hi, I'm Carine! :heart:
+## Hi, i'm Carine! :heart:
 
 ### Fun facts about me: 
  
