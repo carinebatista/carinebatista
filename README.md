@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi, I'm Carine! :heart:
 
-<!--
-**carinebatista/carinebatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fun facts about me: 
+ 
+:star: I'm a UX-UI Designer, who loves FrontEnd Development!
 
-Here are some ideas to get you started:
+:star: Until 2017 I was on the backend side of the force! (C#, Java, C++, Phyton)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:star: I really Love Star Wars! *(Dark side of the force)*
+
+:star: I have two dogs and a rat (Snow, Loki and Theodore)
+
+:star: I'm a Veterinarian student 
+
+##
+### Let's be friends..?
+Take a look at my portfolio, and follow me in social networks :beer:
+
+ - [Meu Linkedin](https://www.linkedin.com/in/carine-batista-736878116/) 
+ 
+  - [Facebook](https://www.facebook.com/carinec3pO)
+  
+   - [Behance](https://www.behance.net/carine_batista)
+   
+
+
+  *May the force be whit you, young Padwan!*
+
+
