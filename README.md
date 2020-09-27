@@ -28,6 +28,6 @@ Take a look at my portfolio, and follow me in social networks :beer:
    
 
 
-  *May the force be whit you, young Padwan!*
+  *May the force be with you, young Padwan!*
 
 
