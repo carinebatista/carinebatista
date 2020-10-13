@@ -28,6 +28,9 @@ Take a look at my portfolio, and follow me in social networks :beer:
    
 
 
+
   *May the force be with you, young Padwan!*
 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carinebatista.carinebatista)
 
