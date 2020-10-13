@@ -1,4 +1,4 @@
-## Hi, i'm [Carine!](https://carinebatista.github.io/){:target="_blank"} :heart:
+## Hi, i'm [Carine!](https://carinebatista.github.io/) :heart:
 
 ### Fun facts about me: 
  
@@ -16,15 +16,15 @@
 ### Let's be friends..?
 Take a look at my portfolio, and follow me in social networks :beer:
 
- - [Meu Linkedin](https://www.linkedin.com/in/carine-batista-736878116/){:target="_blank"}
+ - [Meu Linkedin](https://www.linkedin.com/in/carine-batista-736878116/)
  
-  - [Facebook](https://www.facebook.com/carinec3pO){:target="_blank"}
+  - [Facebook](https://www.facebook.com/carinec3pO)
   
-   - [Behance](https://www.behance.net/carine_batista){:target="_blank"}
+   - [Behance](https://www.behance.net/carine_batista)
    
-   - [Instagram](https://www.instagram.com/carine.batatafrita){:target="_blank"}
+   - [Instagram](https://www.instagram.com/carine.batatafrita)
    
-   - [Twitter](https://twitter.com/carinebatata){:target="_blank"}
+   - [Twitter](https://twitter.com/carinebatata)
    
 
 
