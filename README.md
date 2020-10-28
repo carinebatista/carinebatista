@@ -26,7 +26,7 @@ Take a look at my portfolio, and follow me in social networks :beer:
    
    - [Twitter](https://twitter.com/carinebatata)
    
-    <a href=""><img src="behance.png" width="16"></img></a> [Email]()  
+
 
   *May the force be with you, young Padwan!*
 
