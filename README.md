@@ -28,7 +28,7 @@ Take a look at my portfolio, and follow me in social networks :beer:
    
    - ![behance](behance.png)
 
-    <a href="https://www.linkedin.com/in/carinebatista"><img src="https://github.com/carinebatista/carinebatista/imgs/behance.png" width="16"></img></a> [Behance](https://www.linkedin.com/in/carinebatista)  
+    <a href="https://www.linkedin.com/in/carinebatista"><img src="https://github.com/carinebatista/carinebatista/behance.png" width="16"></img></a> [Behance](https://www.linkedin.com/in/carinebatista)  
 
   *May the force be with you, young Padwan!*
 
