@@ -26,10 +26,7 @@ Take a look at my portfolio, and follow me in social networks :beer:
    
    - [Twitter](https://twitter.com/carinebatata)
    
-  
-    <img src="behance.png" alt="behance" width="16" />
-
-    <a href="https://www.linkedin.com/in/carinebatista"><img src="https://github.com/carinebatista/carinebatista/behance.png" width="16"></img></a> [Behance](https://www.linkedin.com/in/carinebatista)  
+    <a href=""><img src="behance.png" width="16"></img></a> [Email]()  
 
   *May the force be with you, young Padwan!*
 
