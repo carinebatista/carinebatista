@@ -13,7 +13,7 @@
 :star: I'm a Veterinarian student 
 
 ##
-### Contact-me! 
+### Contact me! 
 
  <a href="https://www.linkedin.com/in/carinebatista/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/linkedin.png" width="16"></img></a>  [Meu Linkedin](https://www.linkedin.com/in/carinebatista/)
  
