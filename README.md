@@ -13,21 +13,22 @@
 :star: I'm a Veterinarian student 
 
 ##
-### Let's be friends..?
-Take a look at my portfolio, and follow me in social networks :beer:
+### Contact-me! 
 
- - [Meu Linkedin](https://www.linkedin.com/in/carine-batista-736878116/)
+ <a href="https://www.linkedin.com/in/carinebatista/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/linkedin.png" width="16"></img></a>  [Meu Linkedin](https://www.linkedin.com/in/carinebatista/)
  
-  - [Facebook](https://www.facebook.com/carinec3pO)
+  <a href="https://www.facebook.com/carinec3pO/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/facebook.png" width="16"></img></a>  [Facebook](https://www.facebook.com/carinec3pO)
   
-   - [Behance](https://www.behance.net/carine_batista)
+  <a href="https://www.behance.net/carine_batista"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/behance.png" width="16"></img></a>  [Behance](https://www.behance.net/carine_batista)
    
-   - [Instagram](https://www.instagram.com/carine.batatafrita)
+  <a href="https://www.instagram.com/carine.batatafrita/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/instagram.png" width="16"></img></a>  [Instagram](https://www.instagram.com/carine.batatafrita)
    
-   - [Twitter](https://twitter.com/carinebatata)
-   
-
-
+  <a href="https://twitter.com/carinebatata"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/twitter.png" width="16"></img></a>  [Twitter](https://twitter.com/carinebatata)
+  
+  <a href="mailto:carinedcb@hotmail.com"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/email.png" width="16"></img></a>  [E-mail](mailto:carinedcb@hotmail.com)
+ ##
+ 
+  
   *May the force be with you, young Padwan!*
 
 
