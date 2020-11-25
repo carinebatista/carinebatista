@@ -1,4 +1,4 @@
-## Hi, i'm [Carine!](https://carinebatista.github.io/) :heart:
+## Hi, i'm [Carine!](https://carine.dev/) :heart:
 
 ### Fun facts about me: 
  
@@ -8,7 +8,7 @@
 
 :star: I really Love Star Wars! *(Dark side of the force)*
 
-:star: I have two dogs and a rat (Snow, Loki and Theodore)
+:star: I have three dogs (Snow, Loki and Costelinha)
 
 :star: I'm a Veterinarian student 
 
