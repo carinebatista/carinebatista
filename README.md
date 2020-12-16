@@ -4,7 +4,7 @@
  
 :star: I'm a UX-UI Designer, and Front-end Dev!
 
-:star: Until 2017 I was on the backend side of the force! (C#, Java, C++, Phyton)
+:star: Until 2017 I was on the backend side of the force! (C#, Java, C++, Python)
 
 :star: I really Love Star Wars! *(Dark side of the force)*
 
