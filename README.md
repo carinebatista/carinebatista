@@ -13,9 +13,9 @@
 :star: I'm a Veterinarian student 
 
 ##
-### Contact me! 
+### Let's keep in touch..? 
 
- <a href="https://www.linkedin.com/in/carinebatista/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/linkedin.png" width="16"></img></a>  [Meu Linkedin](https://www.linkedin.com/in/carinebatista/)
+ <a href="https://www.linkedin.com/in/carinebatista/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/linkedin.png" width="16"></img></a>  [Linkedin](https://www.linkedin.com/in/carinebatista/)
  
   <a href="https://www.facebook.com/carinec3pO/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/facebook.png" width="16"></img></a>  [Facebook](https://www.facebook.com/carinec3pO)
   
