@@ -1,14 +1,16 @@
-## Hi, i'm [Carine!](https://carine.dev/) :heart:
+## Hi, i'm [Carine](https://carine.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### Fun facts about me: 
  
 :star: I'm a UI Designer and Front-end Dev!
 
-:star: Until 2017 I was on the backend side of the force! (C#, Java, C++, Phyton)
+:star: I love Physics and Astronomy
+
+:star: Until 2017 I was on the backend side of the force! *(C#, Java, C++, Phyton)*
 
 :star: I really Love Star Wars! *(Dark side of the force)*
 
-:star: I have three dogs (Snow, Loki and Costelinha)
+:star: I have three dogs *(Snow, Loki and Rib)*
 
 :star: I'm a Veterinarian student 
 
