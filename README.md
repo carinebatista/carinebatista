@@ -2,7 +2,7 @@
 
 ### Fun facts about me: 
  
-:star: I'm a UI Designer, and Front-end Dev!
+:star: I'm a UI Designer and Front-end Dev!
 
 :star: Until 2017 I was on the backend side of the force! (C#, Java, C++, Phyton)
 
@@ -13,7 +13,7 @@
 :star: I'm a Veterinarian student 
 
 ##
-### Let's keep in touch..? 
+### Let's keep in touch!
 
  <a href="https://www.linkedin.com/in/carinebatista/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/linkedin.png" width="16"></img></a>  [Linkedin](https://www.linkedin.com/in/carinebatista/)
  
@@ -30,7 +30,4 @@
  
   
   *May the force be with you, young Padwan!*
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carinebatista.carinebatista)
 
