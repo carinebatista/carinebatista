@@ -2,7 +2,7 @@
 
 ### Fun facts about me: 
  
-:star: I'm a UX-UI Designer, and Front-end Dev!
+:star: I'm a UI Designer, and Front-end Dev!
 
 :star: Until 2017 I was on the backend side of the force! (C#, Java, C++, Phyton)
 
