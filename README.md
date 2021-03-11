@@ -13,23 +13,27 @@
 :star: I'm a Veterinarian student 
 
 ##
-### Let's keep in touch!
+### How to Reach me?
 
- <a href="https://www.linkedin.com/in/carinebatista/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/linkedin.png" width="16"></img></a>  [Linkedin](https://www.linkedin.com/in/carinebatista/)
- 
-  <a href="https://www.facebook.com/carinec3pO/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/facebook.png" width="16"></img></a>  [Facebook](https://www.facebook.com/carinec3pO)
-  
-  <a href="https://www.behance.net/carine_batista"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/behance.png" width="16"></img></a>  [Behance](https://www.behance.net/carine_batista)
-   
-  <a href="https://www.instagram.com/carine.batatafrita/"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/instagram.png" width="16"></img></a>  [Instagram](https://www.instagram.com/carine.batatafrita)
-   
-  <a href="https://twitter.com/carinebatata"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/twitter.png" width="16"></img></a>  [Twitter](https://twitter.com/carinebatata)
-  
-  <a href="mailto:carinedcb@hotmail.com"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/email.png" width="16"></img></a>  [E-mail](mailto:carinedcb@hotmail.com)
+You can reach me at my [e-mail](mailto:carinedcb@hotmail.com)!
+Follow my socials! 
+
+[![Instagram: carine.batatafrita](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/carine.batatafrita)](https://www.instagram.com/carine.batatafrita)
+[![Twitter Follow](https://img.shields.io/twitter/follow/carinebatata?label=Twitter)](https://twitter.com/intent/follow?screen_name=carinebatata)
+[![Linkedin: carinebatista](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carinebatista)](https://www.linkedin.com/in/carinebatista/)
+![GitHub followers](https://img.shields.io/github/followers/carinebatista?label=GitHub&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://carine.dev/)](https://carine.dev/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/carinebatatafrita
+)](https://t.me/carinebatatafrita)
+
  ##
  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carinebatista.carinebatista)
- 
+<p align="center">
+ <i> May the force be with you, young Padwan! <i>
+</p>
   
-  *May the force be with you, young Padwan!*
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=carinebatista.carinebatista" alt="visitor badge"/>       
+</p>
 
+ 
