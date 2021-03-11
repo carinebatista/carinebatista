@@ -28,6 +28,8 @@
   <a href="mailto:carinedcb@hotmail.com"><img src="https://github.com/carinebatista/carinebatista/blob/master/imagens/email.png" width="16"></img></a>  [E-mail](mailto:carinedcb@hotmail.com)
  ##
  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carinebatista.carinebatista)
+ 
   
   *May the force be with you, young Padwan!*
 
