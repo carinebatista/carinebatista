@@ -8,7 +8,7 @@
 
 :star: Until 2017 I was on the backend side of the force! *(C#, Java, C++, Phyton)*
 
-:star: I really Love Star Wars! *(Dark side of the force)*
+:star: I really Love Star Wars and Doctor Who! 
 
 :star: I have three dogs *(Snow, Loki and Rib)*
 
