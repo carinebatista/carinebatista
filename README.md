@@ -1,7 +1,7 @@
-# Hi, i'm [Carine](https://carine.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi, I'm [Carine](https://carine.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
-:star: To connect with me, open your terminal and run:
+To connect with me, open your terminal and run:
 
 ```bash
 npx carine
@@ -10,11 +10,11 @@ npx carine
 ##
 ### Fun facts about me: 
  
-:star: I'm a UI Designer and Front-end Dev!
-
-:star: I love Physics and Astronomy
+:star: I'm a Front-end Software Engineer
 
 :star: Until 2017 I was on the backend side of the force! *(C#, Java, C++, Phyton)*
+
+:star: I love Physics and Astronomy
 
 :star: I really Love Star Wars and Doctor Who! 
 
