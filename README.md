@@ -20,7 +20,7 @@ npx carine
 
 :star: I have three dogs *(Snow, Loki and Rib)*
 
-:star: I'm a Veterinarian student 
+:star: I'm also a Veterinarian  
 
 ##
 ### How to Reach me?
