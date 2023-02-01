@@ -12,13 +12,13 @@ npx carine
  
 :star: I'm a Front-end Software Engineer
 
-:star: Until 2017 I was on the backend side of the force! *(C#, Java, C++, Phyton)*
+:star: Until 2017 I was on the backend side of the force! *(C#, Java, C++)*
 
 :star: I love Physics and Astronomy
 
 :star: I really Love Star Wars and Doctor Who! 
 
-:star: I have three dogs *(Snow, Loki and Rib)*
+:star: I have three dogs, three rats and a cat *(Snow, Loki, Rib, JS, Linux, Zoro and Pipoca)*
 
 :star: I'm also a Veterinarian  
 
