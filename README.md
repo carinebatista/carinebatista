@@ -18,7 +18,7 @@ npx carine
 
 :star: I really Love Star Wars and Doctor Who! 
 
-:star: I have three dogs, three rats and a cat *(Snow, Loki, Rib, JS, Linux, Zoro and Pipoca)*
+:star: I have a cat and two rats *(Pipoca, Linux and Zoro)*
 
 :star: I'm also a Veterinarian  
 
