@@ -28,7 +28,7 @@ npx carine
 You can reach me at my [e-mail](mailto:carinedcb@hotmail.com)!
 Follow my socials! 
 
-[![Instagram: carine.batatafrita](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/carine.batatafrita)](https://www.instagram.com/carine.batatafrita)
+[![Instagram: carine.dev](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/carine.batatafrita)](https://www.instagram.com/carine.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/carinebatata?label=Twitter)](https://twitter.com/intent/follow?screen_name=carinebatata)
 [![Linkedin: carinebatista](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carinebatista)](https://www.linkedin.com/in/carinebatista/)
 ![GitHub followers](https://img.shields.io/github/followers/carinebatista?label=Follow&style=social)
