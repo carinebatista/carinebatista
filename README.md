@@ -37,6 +37,10 @@ Follow my socials!
 )](https://t.me/carinebatatafrita)
 
  ##
+
+ [![An image of @carinebatatafrita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/carinebatatafrita)](https://holopin.io/@carinebatatafrita)
+
+ ## 
  
 <p align="center">
  <i> May the force be with you, young Padwan! <i>
