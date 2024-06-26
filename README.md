@@ -18,9 +18,9 @@ npx carine
 
 :star: I really Love Star Wars and Doctor Who! 
 
-:star: I have a cat and two rats *(Pipoca, Linux and Zoro)*
+:star: I have a cat and an rat *(Pipoca and Zoro)*
 
-:star: I'm also a Veterinarian  
+:star: I'm also a Veterinarian and a Chef 👨‍🍳
 
 ##
 ### How to Reach me?
