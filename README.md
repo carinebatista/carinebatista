@@ -14,11 +14,11 @@ npx carine
 
 :star: Until 2017 I was on the backend side of the force! *(C#, Java, C++)*
 
-:star: I love Physics and Astronomy
+:star: I really love drawing in CSS! 🎨
 
-:star: I really Love Star Wars and Doctor Who! 
+:star: I Love Doctor Who! 
 
-:star: I have a cat and an rat *(Pipoca and Zoro)*
+:star: I have a cat and an dog *(Pipoca and Bisteca)*
 
 :star: I'm also a Veterinarian and a Chef 👨‍🍳
 
