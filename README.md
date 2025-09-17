@@ -1,4 +1,4 @@
-# Hi, I'm [Carine](https://carine.dev/)!
+# Hi, I'm [Carine](https://carinebatista.github.io/)!
 
 
 To connect with me, open your terminal and run:
