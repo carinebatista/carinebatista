@@ -18,7 +18,7 @@ npx carine
 
 :star: I Love Doctor Who! 
 
-:star: I have a cat and an dog *(Pipoca and Bisteca)*
+:star: I have a cat *(Pipoca)*
 
 :star: I'm also a Veterinarian and a Chef 👨‍🍳
 
