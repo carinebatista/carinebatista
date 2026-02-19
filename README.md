@@ -30,9 +30,6 @@ Follow my socials!
 
 [![Linkedin: carinebatista](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carinebatista)](https://www.linkedin.com/in/carinebatista/)
 ![GitHub followers](https://img.shields.io/github/followers/carinebatista?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://carine.dev/)](https://carine.dev/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/carinebatatafrita
-)](https://t.me/carinebatatafrita)
 
  ##
 
